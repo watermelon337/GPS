@@ -1,2 +1,2 @@
 # GPS
-Plant Positioning(Plant-Location) in Chollip Arboretum
+Plant Positioning(Plant-Location) in Chollipo Arboretum
